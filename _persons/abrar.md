@@ -1,13 +1,13 @@
 ---
 # use person layout if you want a page generated for you
 layout: person
-first_name: Khandaker Abrar
-last_name: Nadib
-key: abrar
-permalink: /team/abrar/
+first_name: Jiaqi
+last_name: Deng
+key: jiaqi
+permalink: /team/jiaqi/
 # Pick one of the following
 role: phdstudent
-email: abrar.nadib@umail.utah.edu
+email: 
 image: /assets/images/people/abrar.jpg
 organization: University of Utah
 position: PhD Student
